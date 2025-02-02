@@ -24,7 +24,7 @@
 
 <br><br>
 
-- :school: Soy estudiante del octavo ciclo de Ingeniería de Software en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-software).
+- :school: Soy estudiante de Ingeniería de Software en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-software).
 - :trophy: Apasionado por resolver problemas complejos a través del desarrollo de software.
 - :technologist: Disfruto utilizando herramientas y tecnologías para diseñar soluciones innovadoras.
 - :computer: Participo en proyectos académicos y profesionales que abarcan desarrollo web, aplicaciones móviles, y videojuegos.
